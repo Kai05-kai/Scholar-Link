@@ -1,0 +1,6 @@
+{
+  "name": "ScholarLink",
+  "description": "Student opportunity discovery platform for scholarships, internships, government schemes, grants and fellowships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
